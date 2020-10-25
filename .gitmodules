@@ -1,0 +1,6 @@
+[submodule "esp-template/tef-synth-animation"]
+	path = esp-template/tef-synth-animation
+	url = git@github.com:TheElectricFursuits/tef-synth-animation.git
+[submodule "esp-template/tef-led-magic"]
+	path = esp-template/tef-led-magic
+	url = git@github.com:TheElectricFursuits/tef-led-magic.git
